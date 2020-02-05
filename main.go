@@ -4,11 +4,14 @@
 
 package main
 
-import "fmt" 
+import "fmt"
 
 func main() {
-    fmt.Println("Hello world!")
-      fmt.Println("My name is Nicholas Larsen, and my major is Computer Science.")
-    fmt.Println("This is my third semester at Butte College.")
-  fmt.Println("One of my favorite pastimes is playing soccer.")
+fmt.Print("This is Math Magic!!")
+var answer= 37
+var factor= 99-answer
+fmt.Print("enter a number between 50-99")
+var guess= factor
+
+
 }
